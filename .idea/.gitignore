@@ -1,0 +1,36 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../:\Intellij-workspace\hibernatedemo\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+target/
+/sonarlint/issuestore/0/c/0cb75f60c7a75dca54971ee17fac14f4adc7cd3f
+/sonarlint/issuestore/8/e/8e0094ba1180eaeaa6daaf91eb80911ef3559e5e
+/sonarlint/issuestore/2/9/29bde54fc5a477441f24e42a5e19233f00210c3e
+/dataSources/52d88895-014f-4a63-ae03-7eee5b7cdbab.xml
+/sonarlint/issuestore/3/6/360ecf670e2e983f7a266ef2f2ef18afdeb376e5
+/sonarlint/issuestore/8/9/89474efad0f6bde4e0b4b8750e0242c0c5480f93
+/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+/sonarlint/issuestore/b/c/bcd8696962732f1f285c9f2476a51894159e0450
+/vcs.xml
+*.class
+/codeStyles/codeStyleConfig.xml
+/compiler.xml
+/sonarlint/issuestore/d/1/d13c1c5d7251baa96f541e5af8d2c50f2e23e5e2
+/dataSources.xml
+/dataSources/52d88895-014f-4a63-ae03-7eee5b7cdbab/storage_v2/_src_/database/hibernatedb.UNjZvA.meta
+/sonarlint/issuestore/index.pb
+/jarRepositories.xml
+/misc.xml
+/codeStyles/Project.xml
+/dataSources/52d88895-014f-4a63-ae03-7eee5b7cdbab/storage_v2/_src_/database/hibernatedb.UNjZvA/schema/public.abK9xQ.meta
+/uiDesigner.xml
