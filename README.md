@@ -1,0 +1,1 @@
+A sample simple hibernate application with JAVA
